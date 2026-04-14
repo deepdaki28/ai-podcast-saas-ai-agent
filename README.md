@@ -14,11 +14,9 @@ Upload your podcast once. Get platform-optimized content for 6 social networks a
 
 
 
-## 👇 IMPORTANT: Use Our Affiliate Links when signing up
+## 👇 IMPORTANT: Use Links when signing up
 
-**⚠️ Please use our affiliate links below to set up your accounts.**
-
-This is how we keep this content FREE and continue building open-source projects for the community. It costs you nothing extra, but it makes a huge difference for us!
+**⚠️ Please use links below to set up your accounts.**
 
 1. **[Clerk](https://go.clerk.com/sonny)** - Authentication & Billing (Free tier available)
 2. **[Inngest](https://innge.st/sonny-2)** - Workflow Orchestration (Free for developers)
