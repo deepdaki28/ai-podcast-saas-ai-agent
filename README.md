@@ -24,8 +24,6 @@ This is how we keep this content FREE and continue building open-source projects
 2. **[Inngest](https://innge.st/sonny-2)** - Workflow Orchestration (Free for developers)
 3. **[CodeRabbit](https://coderabbit.link/sonny-nov)** - AI Code Reviews (Optional, for development)
 
-🙏 **Thank you for supporting the channel by using our links!**
-
 ---
 
 ### 📌 Who This Is For
@@ -92,26 +90,6 @@ If you're looking at this project thinking "I want to learn how to build this," 
 - **Background Jobs** - Inngest for durable, observable workflows
 - **Modern Auth & Billing** - Clerk with subscription management
 - **Production Deployment** - Vercel, environment variables, and monitoring
-
-### 🎓 PAPAFAM Community Benefits
-
-- **Private Discord** - Direct access to me and other builders
-- **Code Reviews** - Get feedback on your projects
-- **Weekly Q&A Sessions** - Ask anything about development
-- **Job Board** - Exclusive opportunities shared with the community
-
-### 🎯 Real Results
-
-Students have gone from beginner to shipping production apps in weeks. Learn the same modern stack used by top startups.
-
-### 📦 What's Included
-
-- **50+ hours of video tutorials** - Step-by-step project builds
-- **Starter templates** - Clone and customize for your projects
-- **Lifetime updates** - New courses and content added regularly
-- **Certificate of completion** - Show employers your skills
-
-### 👉 [Join the PAPAFAM Course](https://www.papareact.com/course)
 
 ---
 
@@ -652,41 +630,6 @@ Want to level up this project? Here are some advanced features you can build:
 - **💳 Credits System** - Pay-per-use model instead of subscriptions
 - **🎁 Referral Program** - Reward users for bringing in new customers
 
-**Pick one feature and build it!** Then submit a PR or share in the PAPAFAM Discord. I'd love to see what you create.
-
----
-
-## 📄 License
-
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
-
-### You CAN:
-
-- ✅ Use this code for **personal learning** and education
-- ✅ Modify and adapt the code for your own projects
-- ✅ Share the code with others (with attribution)
-- ✅ Use it in your **portfolio** (non-commercial showcase)
-- ✅ Fork, clone, and experiment with the codebase
-
-### You CANNOT:
-
-- ❌ Use this code for **commercial purposes** (selling, SaaS, client work)
-- ❌ Sell this application or derivatives of it
-- ❌ Remove attribution to the original author
-- ❌ Relicense the code under different terms
-
-### For Commercial Licensing
-
-Interested in using this project commercially? I offer flexible licensing options:
-
-- **Startup License** - For early-stage companies (<$100k revenue)
-- **Enterprise License** - For established businesses
-- **White-label License** - Full customization rights for agencies
-
-**Contact me:** Open an issue on GitHub or reach out through the PAPAFAM team email at team@papareact.com
-
-Full license text: [LICENSE.md](./LICENSE.md)
-
 ---
 
 ## 📚 Quick Reference
@@ -745,15 +688,3 @@ Built with incredible tools from:
 - [Vercel](https://vercel.com) - Deployment & Storage
 - [AssemblyAI](https://www.assemblyai.com) - Audio Intelligence
 - [OpenAI](https://platform.openai.com) - AI Content Generation
-
----
-
-## 💬 Questions or Issues?
-
-- **Found a bug?** Open an issue on GitHub
-- **Need help?** Join the [PAPAFAM Discord](https://www.papareact.com/course)
-- **Want to contribute?** PRs welcome (see LICENSE for terms)
-
----
-
-**Built with ❤️ for the PAPAFAM community**
